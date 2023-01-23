@@ -1,1 +1,1 @@
-web:  gunicorn 'my_rest.wsgi'
+web: gunicorn 'willy_rest.wsgi'
